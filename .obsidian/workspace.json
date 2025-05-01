@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "47e5b628b989fedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dcfdba6a417f44d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf04bf0f719988b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/2025.4.16　Java言語.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025.4.16　Java言語"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32c978720394f2d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c7e0a849c9dd91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42dc5015de7b9755",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "378dd3bf290c461c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e218a010d3afe49d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58e066afc88e4718",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9945bb0e3d7a383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c945dd00b875119e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-23 09.11.14.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Drawing 2025-04-23 09.11.14.excalidraw 的反向链接列表"
+            }
+          },
+          {
+            "id": "ae7a69b5005604c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-23 09.11.14.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Drawing 2025-04-23 09.11.14.excalidraw 的出链列表"
+            }
+          },
+          {
+            "id": "99a38b61fc491029",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "38af808dee4e5cd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-23 09.11.14.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Drawing 2025-04-23 09.11.14.excalidraw 的大纲"
+            }
+          },
+          {
+            "id": "730e9bfd3a71f426",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "cf04bf0f719988b3",
+  "lastOpenFiles": [
+    "未命名",
+    "Java/2025.4.21　自習.md",
+    "Java/2025.4.16　Java言語.md",
+    "ChatGPT/Java/throw和throws.md",
+    "Learncpp笔记/常量，字符串/② Constexpr.md",
+    "Learncpp笔记/常量，字符串/① 常量表达式、编译时常量和运行时常量.md",
+    "ChatGPT/Computer Graphics/纹理采样与优化.md",
+    "ChatGPT/Cpp/C++23 print.md",
+    "ChatGPT/Cpp/整数求幂.md",
+    "ChatGPT/Cpp/普通函数和std__function.md",
+    "ChatGPT/Cpp/魔数（Magic Numbers）.md",
+    "ChatGPT/Cpp/复制与引用.md",
+    "ChatGPT/Cpp/翻译单元.md",
+    "ChatGPT/Cpp/堆和栈.md",
+    "ChatGPT/Cpp/纯虚函数.md",
+    "ChatGPT/Cpp/常量折叠（constant folding）.md",
+    "ChatGPT/Cpp/测试constexpr函数.md",
+    "Java/2025.4.15 computer基礎.md",
+    "Java/2025.4.17 Javaフレームに必要な知識.md",
+    "算法/双指针.md",
+    "数据结构/5. 图.md",
+    "算法",
+    "Excalidraw/Drawing 2025-04-23 09.11.14.excalidraw.md",
+    "Computer Graphics/Overview.md",
+    "ChatGPT/Data_Structure/链表插入.md",
+    "数据结构/1. 数组，向量，链表.md",
+    "QQ图片20250427161840.png",
+    "数据结构/2. 二分查找 binary search.md",
+    "未命名.canvas",
+    "Pasted image 20250427145120.png",
+    "Pasted image 20250427145051.png",
+    "CGnCV.png",
+    "Pasted image 20250423092009.png",
+    "Pasted image 20250417132045.png",
+    "Pasted image 20250423092000.png",
+    "数据结构",
+    "ChatGPT/Java",
+    "Java",
+    "rs-test-folder-dHY7KdN5N7MvITUMnGfK4",
+    "rs-test-folder-zZpqh3iuo4x7jHFSOv1uS",
+    "rs-test-folder-sY8AcuzUkph0u1sSvFXP0",
+    "rs-test-folder-svjt4aPXvjLim47UN2JCz",
+    "rs-test-folder-s9mu-hq8ek4fVM02hcHny",
+    "rs-test-folder-JrlhCd3RCANIstILiskoX"
+  ]
+}
