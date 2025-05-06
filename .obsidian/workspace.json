@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT/Computer Graphics/凹凸贴图和法线贴图.md",
-                "mode": "preview",
+                "file": "Computer Graphics/Geometry.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "凹凸贴图和法线贴图"
+              "title": "Geometry"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT/Computer Graphics/凹凸贴图和法线贴图.md",
+                "file": "Computer Graphics/Geometry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "凹凸贴图和法线贴图 的大纲"
+              "title": "Geometry 的大纲"
             }
           }
         ],
@@ -172,10 +172,10 @@
   },
   "active": "cf04bf0f719988b3",
   "lastOpenFiles": [
+    "ChatGPT/Computer Graphics/凹凸贴图和法线贴图.md",
     "Computer Graphics/Geometry.md",
     "Computer Graphics/shading.md",
     "Computer Graphics/Transformation.md",
-    "ChatGPT/Computer Graphics/凹凸贴图和法线贴图.md",
     "Java/2025.4.16　Java言語.md",
     "OpenGL",
     "未命名",
