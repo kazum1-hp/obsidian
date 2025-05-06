@@ -140,27 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-23 09.11.14.excalidraw.md",
+                "file": "Java/2025.4.16　Java言語.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-04-23 09.11.14.excalidraw 的大纲"
-            }
-          },
-          {
-            "id": "730e9bfd3a71f426",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "2025.4.16　Java言語 的大纲"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,6 +171,7 @@
   },
   "active": "cf04bf0f719988b3",
   "lastOpenFiles": [
+    "OpenGL",
     "未命名",
     "Java/2025.4.21　自習.md",
     "Java/2025.4.16　Java言語.md",
@@ -223,7 +214,6 @@
     "rs-test-folder-zZpqh3iuo4x7jHFSOv1uS",
     "rs-test-folder-sY8AcuzUkph0u1sSvFXP0",
     "rs-test-folder-svjt4aPXvjLim47UN2JCz",
-    "rs-test-folder-s9mu-hq8ek4fVM02hcHny",
-    "rs-test-folder-JrlhCd3RCANIstILiskoX"
+    "rs-test-folder-s9mu-hq8ek4fVM02hcHny"
   ]
 }
