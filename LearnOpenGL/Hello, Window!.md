@@ -51,8 +51,21 @@ LearnOpenGL的第一课，在这之前配置好glfw库和GLAD，关于[[GLAD]]�
 
 	glfwTerminate(); //release resources
 
+**输入**
+
+	void processInput(GLFWwindow* window) {
+		if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS)
+			glfwSetWindowShouldClose(window, true);
+	}
+	检测到esc退出glfw
+
+
+
 **渲染清屏**
 	自定义一个颜色清空屏幕，并清除颜色缓冲
 
 		glClearColor(0.2f, 0.3f, 0.3f, 1.0f); //custom color for screen clean
 		glClear(GL_COLOR_BUFFER_BIT); //buffer clear
+
+
+> glClearColor函数是一个**状态设置**函数，而glClear函数则是一个**状态使用**的函数，它使用了当前的状态来获取应该清除为的颜色。
