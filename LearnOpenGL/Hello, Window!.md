@@ -30,3 +30,6 @@ LearnOpenGL的第一课，在这之前配置好glfw库和GLAD，关于[[GLAD]]�
 	glViewport(0, 0, 800, 600); //set viewport dimension
 	前两个单位以像素为单位控制窗口左下角的位置，后两个为宽度和高度
 
+设置回调函数（在窗口大小变化时调用）
+
+	void framebuffer_size_callback(GLFWwindow * window, int width, int height);
