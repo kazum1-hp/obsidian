@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics/Geometry.md",
+                "file": "LearnOpenGL/Hello, Window!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geometry"
+              "title": "Hello, Window!"
             }
           }
         ]
@@ -172,12 +172,15 @@
   },
   "active": "cf04bf0f719988b3",
   "lastOpenFiles": [
-    "ChatGPT/Computer Graphics/凹凸贴图和法线贴图.md",
+    "ChatGPT/learnOpenGL/GLAD.md",
+    "LearnOpenGL/Hello, Window!.md",
+    "ChatGPT/learnOpenGL",
     "Computer Graphics/Geometry.md",
+    "ChatGPT/Computer Graphics/凹凸贴图和法线贴图.md",
     "Computer Graphics/shading.md",
     "Computer Graphics/Transformation.md",
     "Java/2025.4.16　Java言語.md",
-    "OpenGL",
+    "LearnOpenGL",
     "未命名",
     "Java/2025.4.21　自習.md",
     "ChatGPT/Java/throw和throws.md",
@@ -199,8 +202,6 @@
     "算法/双指针.md",
     "数据结构/5. 图.md",
     "算法",
-    "Excalidraw/Drawing 2025-04-23 09.11.14.excalidraw.md",
-    "Computer Graphics/Overview.md",
     "QQ图片20250427161840.png",
     "未命名.canvas",
     "Pasted image 20250427145120.png",
@@ -214,7 +215,6 @@
     "Java",
     "rs-test-folder-dHY7KdN5N7MvITUMnGfK4",
     "rs-test-folder-zZpqh3iuo4x7jHFSOv1uS",
-    "rs-test-folder-sY8AcuzUkph0u1sSvFXP0",
-    "rs-test-folder-svjt4aPXvjLim47UN2JCz"
+    "rs-test-folder-sY8AcuzUkph0u1sSvFXP0"
   ]
 }
