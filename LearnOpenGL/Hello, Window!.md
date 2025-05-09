@@ -50,3 +50,9 @@ LearnOpenGL的第一课，在这之前配置好glfw库和GLAD，关于[[GLAD]]�
 **释放资源**
 
 	glfwTerminate(); //release resources
+
+**渲染清屏**
+	自定义一个颜色清空屏幕，并清除颜色缓冲
+
+		glClearColor(0.2f, 0.3f, 0.3f, 1.0f); //custom color for screen clean
+		glClear(GL_COLOR_BUFFER_BIT); //buffer clear
