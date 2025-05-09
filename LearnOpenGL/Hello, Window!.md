@@ -25,3 +25,8 @@ LearnOpenGL的第一课，在这之前配置好glfw库和GLAD，关于[[GLAD]]�
 		return -1;
 	}
 
+设置视口（告诉OpenGL需要渲染的尺寸）
+
+	glViewport(0, 0, 800, 600); //set viewport dimension
+	前两个单位以像素为单位控制窗口左下角的位置，后两个为宽度和高度
+
