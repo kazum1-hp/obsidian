@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT/learnOpenGL/VAO,VBO,EBO.md",
+                "file": "src/openGL/HelloTriangle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VAO,VBO,EBO"
+              "title": "HelloTriangle"
             }
           }
         ]
@@ -172,9 +172,9 @@
   },
   "active": "cf04bf0f719988b3",
   "lastOpenFiles": [
+    "src/openGL/HelloWindow.md",
     "LearnOpenGL/Hello,Triangle!.md",
     "ChatGPT/learnOpenGL/VAO,VBO,EBO.md",
-    "src/openGL/HelloWindow.md",
     "src/openGL/HelloTriangle.md",
     "LearnOpenGL/Hello, Window!.md",
     "src/openGL",
