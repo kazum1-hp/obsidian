@@ -5,3 +5,4 @@
 > - 顶点缓冲对象：Vertex Buffer Object，VBO
 > - 元素缓冲对象：Element Buffer Object，EBO 或 索引缓冲对象 Index Buffer Object，IBO
 
+[[VAO,VBO,EBO]]
