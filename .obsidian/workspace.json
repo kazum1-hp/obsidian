@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LearnOpenGL/Hello,Triangle!.md",
+                "file": "LearnOpenGL/Shader.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello,Triangle!"
+              "title": "Shader"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "cf04bf0f719988b3",
   "lastOpenFiles": [
-    "src/openGL/HelloTriangle.md",
     "src/openGL/HelloWindow.md",
+    "LearnOpenGL/Shader.md",
+    "src/openGL/HelloTriangle.md",
     "LearnOpenGL/Hello,Triangle!.md",
     "ChatGPT/learnOpenGL/VAO,VBO,EBO.md",
     "LearnOpenGL/Hello, Window!.md",
@@ -201,7 +202,6 @@
     "ChatGPT/Cpp/翻译单元.md",
     "ChatGPT/Cpp/堆和栈.md",
     "ChatGPT/Cpp/纯虚函数.md",
-    "ChatGPT/Cpp/常量折叠（constant folding）.md",
     "算法",
     "QQ图片20250427161840.png",
     "未命名.canvas",
