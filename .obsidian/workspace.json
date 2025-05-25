@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT/Cpp/std stringstream.md",
-                "mode": "source",
+                "file": "ChatGPT/learnOpenGL/uniform.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "std stringstream"
+              "title": "uniform"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "cf04bf0f719988b3",
   "lastOpenFiles": [
+    "ChatGPT/learnOpenGL/uniform和shader.md",
+    "ChatGPT/learnOpenGL/uniform.md",
+    "ChatGPT/Cpp/std stringstream.md",
     "ChatGPT/Cpp/测试constexpr函数.md",
     "ChatGPT/Cpp/复制与引用.md",
     "ChatGPT/Data_Structure/静态数组、动态数组和链表.md",
@@ -182,7 +185,6 @@
     "算法/双指针.md",
     "ChatGPT/Computer Graphics/凹凸贴图和法线贴图.md",
     "数据结构/6. 树.md",
-    "ChatGPT/Cpp/std stringstream.md",
     "ChatGPT/Cpp/C++多线程.md",
     "ChatGPT/Cpp/Constexpr函数在编译时和运行时的区别.md",
     "数据结构/5. 图.md",
@@ -199,9 +201,7 @@
     "src",
     "ChatGPT/learnOpenGL",
     "Computer Graphics/shading.md",
-    "Java/2025.4.16　Java言語.md",
     "LearnOpenGL",
-    "Java/2025.4.21　自習.md",
     "算法",
     "QQ图片20250427161840.png",
     "未命名.canvas",
